@@ -15,3 +15,6 @@ Dead simple Cycle.js starter template
 - `webpack`
   - Currently uses esbuild as a compiler
 
+# License
+
+CC0. You don't have to include license information about `aumyf/cyclejs-templates` in the project you scaffolded using it.
